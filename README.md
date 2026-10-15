@@ -14,7 +14,7 @@ Open [http://localhost:4173](http://localhost:4173).
 
 ## Refresh shortcut data and mappings
 
-The importer reads the adjacent `Mac_Keyboard_Shortcuts_Master.xlsx` workbook's canonical `01_WSZYSTKIE` sheet, the curated path in `22_UCZ_SIE_30`, and the key legend in `17_KLAWIATURA`. It preserves each workbook row and adds a `playgroundType` and `playgroundReason` mapping without merging duplicate shortcuts.
+The importer reads the repository's `Mac_Keyboard_Shortcuts_Master.xlsx` workbook's canonical `01_WSZYSTKIE` sheet, the curated path in `22_UCZ_SIE_30`, and the key legend in `17_KLAWIATURA`. It preserves each workbook row and adds a `playgroundType` and `playgroundReason` mapping without merging duplicate shortcuts.
 
 ```sh
 python3 scripts/import_workbook.py
@@ -32,6 +32,6 @@ The coverage check writes `data/playground-coverage.json`, including every sourc
 - The scene changes only inside the page and has a simulated-action button, hint, reset, and review-queue action. Matching combinations are handled only while the playground has focus; browser or macOS interception is explained, and the on-screen simulation remains available.
 - “Spróbuj na Macu” remains a separate guided step. The site does not execute commands on the learner's Mac or claim that the real shortcut worked.
 - Learning status and review items are stored in browser local storage.
-- The supplied Plan and Lesson PNG artwork is copied into `assets/` for cropped illustration. The original reference files and source workbook are unchanged.
+- The supplied Plan, Lesson, Practice, and Catalogue PNG artwork is copied into `assets/` for the screen treatments. The original reference files and source workbook are unchanged.
 
 The imported workbook metadata remains authoritative for shortcut, context, configuration, version, layout note, and source. The 68 rows assigned to a guided visualization do not have a behaviorally detailed scene: the page explains that limitation rather than simulating a guessed system action. Their IDs and reasons are listed in `data/playground-coverage.json`.

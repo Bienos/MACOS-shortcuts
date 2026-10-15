@@ -1,0 +1,292 @@
+{
+  "sourceWorkbook": "Mac_Keyboard_Shortcuts_Master.xlsx",
+  "sourceSheet": "01_WSZYSTKIE",
+  "totalWorkbookRecordsImported": 879,
+  "recordsInJson": 879,
+  "mappedRecords": 879,
+  "byPlaygroundType": {
+    "app": 422,
+    "browser": 148,
+    "capture": 11,
+    "code": 48,
+    "files": 61,
+    "guided": 68,
+    "text": 74,
+    "windows": 47
+  },
+  "unmapped": [],
+  "guidedVisualizationRecords": [
+    {
+      "id": "0016",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0022",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0023",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0024",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0025",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0036",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0037",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0038",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0039",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0040",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0041",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0042",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0043",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0044",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0184",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0185",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0186",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0187",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0188",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0189",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0190",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0191",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0192",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0193",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0518",
+      "reason": "Ryzykowna czynność: wizualizacja objaśnia skrót, ale nigdy nie wylogowuje, nie wyłącza ani nie zamyka aplikacji na urządzeniu."
+    },
+    {
+      "id": "0835",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0836",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0837",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0838",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0839",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0840",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0841",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0842",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0843",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0844",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0845",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0846",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0847",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0848",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0849",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0850",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0851",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0852",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0853",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0854",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0855",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0856",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0857",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0858",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0859",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0860",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0861",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0862",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0863",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0865",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0866",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0867",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0868",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0870",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0871",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0872",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0873",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0874",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0875",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0876",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0877",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0878",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    },
+    {
+      "id": "0879",
+      "reason": "Bezpieczna wizualizacja wyjaśnia działanie bez wylogowania, zmiany ustawień ani sterowania macOS."
+    }
+  ]
+}

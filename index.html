@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#101318" />
+    <meta name="description" content="Command Club — ucz się skrótów Maca w swoim tempie." />
+    <title>Command Club — studio skrótów Maca</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Nawigacja główna">
+        <a class="brand" href="#studio" aria-label="Command Club — studio">
+          <span class="brand-mark"><span></span><span></span><span></span></span>
+          <span><strong>command club</strong><small>MAC SHORTCUT STUDIO</small></span>
+        </a>
+        <div class="side-label">TWOJE STUDIO</div>
+        <nav class="main-nav">
+          <button class="nav-item active" data-page="studio"><span class="nav-icon">◉</span>Studio <span class="nav-pulse"></span></button>
+          <button class="nav-item" data-page="catalog"><span class="nav-icon">▦</span>Katalog <span class="nav-count" id="nav-record-count">879</span></button>
+          <button class="nav-item" data-page="review"><span class="nav-icon">↻</span>Powtórki <span class="nav-count" id="nav-review-count">0</span></button>
+        </nav>
+        <div class="sidebar-spacer"></div>
+        <div class="side-note"><span class="live-dot"></span><span>Twoje tempo.<br />Twoja klawiatura.</span></div>
+        <div class="sidebar-footer"><span>⌘</span> Zawsze możesz wrócić do katalogu</div>
+      </aside>
+
+      <main class="main-area">
+        <header class="topbar">
+          <div class="breadcrumb"><span>COMMAND CLUB</span><span class="crumb-slash">/</span><strong id="page-crumb">STUDIO</strong></div>
+          <button class="search-trigger" id="search-trigger"><span class="search-glass">⌕</span><span>Szukaj czynności lub skrótu…</span><kbd>/</kbd></button>
+          <button class="avatar" aria-label="Twój postęp">M</button>
+        </header>
+        <div id="view" class="view" tabindex="-1"></div>
+      </main>
+    </div>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <div id="dialog-root"></div>
+  </body>
+</html>
